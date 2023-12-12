@@ -1,5 +1,5 @@
-train: /kaggle/working/yolo-drone-aeroplane-detection/train
-val: /kaggle/working/yolo-drone-aeroplane-detection/val
+train: /content/yolo-drone-aeroplane-detection/train
+val: /content/yolo-drone-aeroplane-detection/val
 
 nc: 2
 
