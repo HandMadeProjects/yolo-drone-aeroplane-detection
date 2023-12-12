@@ -15,6 +15,9 @@ model.predict(source=0, show=True, save=True, conf=0.5)
 ### Training
 yolo task=detect mode=train epochs=100 data=data_custom.yaml model=yolov8m.pt imgsz=640
 
+Google Colab :: https://colab.research.google.com/drive/1Av7EzIaw96XLotbJH-JNTNhSsyRNkjmt?usp=sharing
+
+
 
 ### Testing
 
