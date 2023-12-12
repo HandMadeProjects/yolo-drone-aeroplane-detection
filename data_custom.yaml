@@ -1,0 +1,6 @@
+train: C:\Users\Atharva Pawar\Documents\Projects\Python__Notebook\Opencv\droneDetection\train
+val: C:\Users\Atharva Pawar\Documents\Projects\Python__Notebook\Opencv\droneDetection\val
+
+nc: 2
+
+names: ["aeroplane", "drone"]
